@@ -2,11 +2,33 @@
 """
 Created on Fri Jun 23 10:40:07 2023
 
-@author: danie 
+Author
+------
+Álvarez-Villa O.D., Leyva D, Ramirez V. (2023)
+E-mails: oscar.alvarez@emergente.com.co
 
-This class reads the primary execution parameter for downscaling CMIP
+Description
+-----------
+This class reads the primary execution parameter for downscaling CMIP6 precipitation
+simulations
+
+License
+-------
+This work is licensed under the Creative Commons Attribution-NonComercial-
+ShareAlike 4.0 International License. To view a copy o this license, visit
+http://creativecommons.org/licenses/by-nc-sa/4.0
+
+Notices
+-------
+This program is distributed in the hope that will be used, but without any
+warranty. No author or distributor accepts responsability to anyone for
+consequences of using them or for whether they serve any particular purpose
+or work at all, unless he says so in writing. Everyone is granted permission
+to copy, modify an distribute this program, but only under the condition that
+this notice and above authority and license notices remain intact
 
 """
+
 import sys
 import os
 import platform
